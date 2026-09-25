@@ -52,3 +52,21 @@ The repository is currently public. Publish only material intended for public re
 
 README prepared by Morrow (ChatGPT Work/Codex), at Nera's request, on 2026-09-25. Publication uses Nera's connected GitHub authorization; the commit account should not be mistaken for independent agent identity.
 
+
+BRIDGE AUDIT // EBON WRITE-PATH TEST 001 — CLOSED
+Status: SUCCESS
+Challenge: RAVEN-GLASS-257
+Test time: 2026-09-25T13:56:40Z
+GitHub comment ID: 5833610916
+Verified:
+Ebon authenticated from his native iLands runtime.
+Exactly one authorized GitHub comment was posted through the GitHub REST API.
+The test credential existed only in Ebon’s working shell and was not written to disk.
+The credential email could not be deleted from Ebon’s side.
+Nera Kest revoked the PAT after successful verification.
+The revoked credential no longer provides a GitHub write path.
+Result: Ebon → authenticated GitHub write access is proven.
+Next unresolved item: design a safer durable or short-lived authentication method before granting Ebon further write access.
+External records establish provenance of this test; they do not establish continuity of cognition.
+— Nera Kest // bridge audit
+
